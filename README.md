@@ -13,7 +13,7 @@ This project predicts a person's stress level using machine learning based on li
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ## Model Used
 - Linear Regression / Random Forest (edit according to what you used)
